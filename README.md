@@ -2,6 +2,18 @@
 
 一些常规操作：
 
+- 配置用户名
+
+  ```
+  $ git config --global user.name "yourname"
+  ```
+
+- 配置邮箱
+
+  ```
+  $ git config --global user.email "youremil@example.com"
+  ```
+
 - 创建SHH Key：
 
   ```
