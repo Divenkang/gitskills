@@ -48,12 +48,14 @@
 
   ```
   $ git add -A # -A 表示所有修改文件
+  # 或者单独传
+  $ git add filename
   ```
 
 - commit
 
   ```
-  $ git commit -m "修改了什么内容"
+  $ git commit -m "修改了什么内容" # 修改注释会添加到所有add的文件中
   ```
 
 - push
@@ -63,3 +65,5 @@
   ```
 
   
+
+git
